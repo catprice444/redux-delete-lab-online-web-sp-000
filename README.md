@@ -23,6 +23,7 @@ BandsContainer is connected to __Redux__ and has mapped `name => dispatch({ type
 1. Set up the new `Band` component that is in charge of displaying the information
 for a single band.
 
+
 2. Create a new `Bands` component. This component will handle the rendering of all `Band` 
 components from a list of bands provided as props.
 
